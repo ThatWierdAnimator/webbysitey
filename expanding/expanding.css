@@ -26,6 +26,7 @@ body {
     flex: 0.5;
     margin: 10px;
     position: relative;
+    border: 3px solid black;
 }
 
 .panel.active {
