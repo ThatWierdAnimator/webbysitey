@@ -14,17 +14,20 @@ body {
     top: 0;
     position: absolute;
     font-size: 40px;
+    color: #facade;
 }
 
 .t2 {
     top: 50px;
     position: absolute;
+    color: #facade;
 }
 
 .t3 {
     top: 50px;
     position: absolute;
     font-size: 48px;
+    color: #facade;
 }
 
 .assignments {
