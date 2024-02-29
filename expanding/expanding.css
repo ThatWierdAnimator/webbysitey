@@ -2,5 +2,5 @@
 body {
     justify-content: center;
     align-items: center;
-    position: absolute;
+    height: 100vh;
 }
