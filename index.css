@@ -39,9 +39,9 @@ body {
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    height: 200px;
-    top: 0px;
+    top: 0;
     flex: 0.5;
-    margin: 50vh;
+    margin: 0;
     position: relative;
+    z-index: -1;
 }
