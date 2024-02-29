@@ -1,3 +1,6 @@
+* {
+    box-sizing: border-box;
+}
 
 body {
     justify-content: center;
@@ -21,4 +24,10 @@ body {
     color: black;
     cursor: pointer;
     flex: 0.5;
+    margin: 10px;
+}
+
+.panel.active {
+    flex: 5;
+    
 }
