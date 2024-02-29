@@ -40,9 +40,7 @@ body {
     background-position: center;
     background-repeat: no-repeat;
     height: 200px;
-    width: 100vw;
-    color: #facade;
-    cursor: pointer;
+    top: 0px;
     flex: 0.5;
     margin: 50vh;
     position: relative;
