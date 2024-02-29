@@ -34,3 +34,16 @@ body {
     justify-content: left;
     font-size: 18px;
 }
+
+.big_poo {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 200px;
+    width: 100vw;
+    color: #facade;
+    cursor: pointer;
+    flex: 0.5;
+    margin: 50vh;
+    position: relative;
+}
