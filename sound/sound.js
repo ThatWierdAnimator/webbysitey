@@ -1,4 +1,4 @@
-sounds = ['dissapointed', 'foghorn', 'tyrone']
+sounds = ['dissapointed', 'foghorn', 'tyrone', 'vine boom']
 
 sounds.forEach(sound => {
     btn = document.createElement('button')
