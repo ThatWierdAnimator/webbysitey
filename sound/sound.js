@@ -9,3 +9,5 @@ souns.forEach(sound => {
     })
     document.getElementById('buttons').appendChild(btn)
 })
+
+Debug.Log("connected!")
