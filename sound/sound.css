@@ -1,7 +1,15 @@
+* {
+    box-sizing: border-box;
+}
+
 body {
     justify-content: center;
     align-items: center;
     height: 100vh;
     display: flex;
     margin: 0;
+}
+
+.btn {
+    font-family: "Poppins", sans-serif;
 }
