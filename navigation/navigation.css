@@ -15,4 +15,6 @@ body {
     margin: 0 auto;
 }
 
-.hero
+.hero {
+    background-image: url();
+}
