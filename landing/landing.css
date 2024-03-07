@@ -11,3 +11,7 @@
 body {
     margin: 0;
 }
+
+nav {
+    background-color: var(--primary-color);
+}
