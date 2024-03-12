@@ -15,14 +15,12 @@ header {
     position: relative;
     padding: 40px 15px;
     text-align: center;
-    margin: 0;
 }
 
 header .big_poo {
-    margin: 0;
     z-index: -1;
     position: absolute;
-    transform: translateX(-50%);
+    transform: translate(-50%, -25%);
     width: 100vw;
     height: 160px;
 }
