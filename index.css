@@ -10,10 +10,6 @@ body {
 }
 
 header {
-    background-image: url(expanding/pictures/big_poo.jfif);
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
     color: #facade;
     font-size: 130%;
     position: relative;
@@ -21,21 +17,15 @@ header {
     text-align: center;
 }
 
+header .big_poo {
+    position: absolute;
+    width: 100vw;
+    height: 160px;
+}
+
 .assignments {
     padding: 15px;
     margin: 0 auto;
     width: 800px;
     max-width: 100%;
-}
-
-.big_poo {
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    weight: 100%;
-    top: 0;
-    flex: 1;
-    margin: 0;
-    position: relative;
-    z-index: -1;
 }
