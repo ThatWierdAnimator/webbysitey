@@ -10,24 +10,12 @@ body {
     margin: 0;
 }
 
-.t1 {
-    top: 0;
-    position: ;
-    font-size: 40px;
+header {
     color: #facade;
-}
-
-.t2 {
-    top: 50px;
-    position: absolute;
-    color: #facade;
-}
-
-.t3 {
-    top: 50px;
-    position: absolute;
-    font-size: 48px;
-    color: #facade;
+    font-size: 130%;
+    position: relative;
+    padding: 40px 15px;
+    text-align: center;
 }
 
 .assignments {
@@ -41,7 +29,7 @@ body {
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    weight: 100vw;
+    weight: 100%;
     top: 0;
     flex: 1;
     margin: 0;
