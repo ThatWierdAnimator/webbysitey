@@ -20,7 +20,7 @@ header {
 header img {
     z-index: -1;
     position: absolute;
-    transform: translate(-50%, -25%);
+    transform: translate(-50%, -100%);
     width: 100vw;
     height: 160px;
 }
