@@ -22,7 +22,7 @@ header .big_poo {
     margin: 0;
     z-index: -1;
     position: absolute;
-    left: 50%;
+    transform: translateX(-50%);
     width: 100vw;
     height: 160px;
 }
