@@ -20,9 +20,9 @@ header {
 header img {
     z-index: -1;
     position: absolute;
-    transform: translate(-50%, -100%);
+    transform: translate(-50%, -160px);
     width: 100vw;
-    height: 160px;
+    height: 200px;
 }
 
 header h1 {
@@ -30,6 +30,7 @@ header h1 {
 }
 
 header h5 {
+    font-size: 10px;
     margin: 0;
 }
 
