@@ -29,6 +29,10 @@ header h1 {
     margin: 0;
 }
 
+header h5 {
+    margin: 0;
+}
+
 .assignments {
     padding: 15px;
     margin: 0 auto;
