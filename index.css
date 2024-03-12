@@ -40,7 +40,7 @@ header h5 {
 .assignments {
     position: relative;
     padding: 15px;
-    margin: 0;
+    margin: 0 auto;
     width: 800px;
     max-width: 100%;
 }
