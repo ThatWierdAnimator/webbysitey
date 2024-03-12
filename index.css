@@ -11,6 +11,9 @@ body {
 
 header {
     background-image: url(expanding/pictures/big_poo.jfif);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
     color: #facade;
     font-size: 130%;
     position: relative;
