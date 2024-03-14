@@ -58,7 +58,7 @@ header h5 {
 .assignments img {
     display: block;
     margin: auto;
-    border-color: black;
+    border: black;
 }
 
 .assignments button {
