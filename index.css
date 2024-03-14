@@ -39,7 +39,7 @@ header h5 {
 
 .assignments {
     bottom: 0;
-    position: relative;
+    position: absolute;
     padding: 15px;
     margin: 0 auto;
     width: 800px;
