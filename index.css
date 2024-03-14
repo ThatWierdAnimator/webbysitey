@@ -22,7 +22,6 @@ header {
 header img {
     z-index: -1;
     position: absolute;
-    justify-content: center;
     transform: translate(-50%, -147px);
     width: 100vw;
     height: 200px;
