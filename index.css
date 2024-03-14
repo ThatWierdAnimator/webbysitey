@@ -47,3 +47,7 @@ header h5 {
     width: 800px;
     max-width: 100%;
 }
+
+.assignments button {
+    position: relative;
+}
