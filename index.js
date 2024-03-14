@@ -1,4 +1,4 @@
-search = document.GetElementById('search')
+search = document.getElementById('search')
 
 search.addEventListener('click', () => {
     window.open("search/search.html")
