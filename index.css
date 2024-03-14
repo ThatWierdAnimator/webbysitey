@@ -48,24 +48,28 @@ header h5 {
 }
 
 .assignments h2 {
+    position: relative;
     font-size: 32px;
 }
 
 .assignments p {
+    position: relative;
     font-size: 18px;
 }
 
 .assignments img {
+    position: relative;
     display: block;
-    margin: auto;
-    border: black;
+    margin: 30px auto;
+    border: 3px solid black;
 }
 
 .assignments button {
+    position: relative;
     display: block;
-    margin: auto;
+    margin: 30px auto;
     padding: 12px 30px;
-    font-size: 20px;
+    font-size: 40px;
     cursor: pointer;
     border-radius: 15px;
     border: none;
