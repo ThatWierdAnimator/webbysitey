@@ -48,6 +48,14 @@ header h5 {
     max-width: 100%;
 }
 
+.assignments h2 {
+    font-size: 32px;
+}
+
+.assignments p {
+    font-size: 18px;
+}
+
 .assignments button {
     padding: 12px 30px;
     font-size: 20px;
