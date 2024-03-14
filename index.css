@@ -55,8 +55,15 @@ header h5 {
     font-size: 18px;
 }
 
+.assignments img {
+    display: block;
+    margin: auto;
+    border-color: black;
+}
+
 .assignments button {
-    margin: 0 auto;
+    display: block;
+    margin: auto;
     padding: 12px 30px;
     font-size: 20px;
     cursor: pointer;
