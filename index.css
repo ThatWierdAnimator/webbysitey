@@ -56,7 +56,7 @@ header h5 {
 }
 
 .assignments button {
-    display: block;
+    margin: 0 auto;
     padding: 12px 30px;
     font-size: 20px;
     cursor: pointer;
