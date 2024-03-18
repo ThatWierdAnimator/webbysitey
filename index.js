@@ -28,3 +28,15 @@ navigation.addEventListener('click', () => {
 landing.addEventListener('click', () => {
     window.open("landing/landing.html", "_self")
 })
+
+nav = document.querySelector('.nav')
+
+window.addEventListener('scroll', fixNav)
+
+function fixNav() {
+    if (window.scrollY > 200) {
+        nav.classList.add('active')
+    } else {
+        nav.classList.remove('active')
+    }
+}
